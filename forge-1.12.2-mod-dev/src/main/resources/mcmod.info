@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bneGames",
+  "name": "bneGames",
+  "description": "For fun mod stuff",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tiffany Hallisey", "Avery Hallisey"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
