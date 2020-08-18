@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-     "layer0": "bneGames:items/boomstick"
+     "layer0": "bnegames:items/boomstick"
   }
 }

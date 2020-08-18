@@ -1,7 +1,7 @@
 [
 {
-  "modid": "bneGames",
-  "name": "bneGames",
+  "modid": "bnegames",
+  "name": "bnegames",
   "description": "For fun mod stuff",
   "version": "${version}",
   "mcversion": "${mcversion}",
