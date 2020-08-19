@@ -19,7 +19,7 @@ public class RegistryHandler {
   public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, MinecraftMod.MOD_ID);
   
   //items
-  public static final RegistryObject<Item> BLING = ITEMS.register("ruby",Bling::new);
+  public static final RegistryObject<Item> BLING = ITEMS.register("bling",Bling::new);
   public static final RegistryObject<Item> BOOMSTICK = ITEMS.register("boomstick", Boomstick::new);
 
   //blocks
